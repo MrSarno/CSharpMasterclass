@@ -17,7 +17,7 @@ namespace AFirstLookAtStrings
             Console.WriteLine(printANewSentence.ToLower());
 
             string printTheSameSentenceInAllCaps = printANewSentence.ToUpper();
-            Console.WriteLine(printTheSameSentence);
+            Console.WriteLine(printTheSameSentenceInAllCaps);
 
             Console.ReadLine();
         }
