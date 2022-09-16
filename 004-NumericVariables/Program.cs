@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MoreDataTypes
+namespace NumericVariables
 {
     class Program
     {
