@@ -8,7 +8,7 @@ namespace Classes
         {
             Human john = new Human();
 
-            // acces public variable from outside, and even change it
+            // access public variable from outside, and even change it
             john.firstName = "John";
             john.IntroduceMyself();
 
