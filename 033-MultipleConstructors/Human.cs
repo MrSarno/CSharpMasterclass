@@ -16,6 +16,7 @@ namespace MultipleConstructors
             Console.WriteLine("\n[Constructor called. Object has been created.]");
         }
 
+        // parameterised constructor
         public Human(string firstName, string lastName, string eyeColour)
         {
             this.firstName = firstName;
